@@ -1,2 +1,2 @@
-# awesome-direct-preference-optimization
+# Awesome Direct Preference Optimization
 A Survey of Direct Preference Optimization
