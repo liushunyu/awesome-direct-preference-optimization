@@ -57,7 +57,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization [![arXiv](https://img.shields.io/badge/arXiv-2024.07-b31b1b.svg)](https://arxiv.org/abs/2407.07880)
 
 - Combating inherent noise for direct preference optimization [[OpenReview]](https://openreview.net/forum?id=MlxeUVCQgD)
-- Perplexity-aware Correction for Robust Alignment with Noisy Preferences [[OpenReview]](https://openreview.net/pdf?id=OUXnnPJzXJ)
+- Perplexity-aware Correction for Robust Alignment with Noisy Preferences [[OpenReview]](https://openreview.net/forum?id=OUXnnPJzXJ)
 - Impact of Preference Noise on the Alignment Performance of Generative Language Models [![arXiv](https://img.shields.io/badge/arXiv-2024.04-b31b1b.svg)](https://arxiv.org/abs/2404.09824)
 - Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment [![arXiv](https://img.shields.io/badge/arXiv-2024.06-b31b1b.svg)](https://arxiv.org/abs/2406.04412)
 - ROPO: Robust Preference Optimization for Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2024.04-b31b1b.svg)](https://arxiv.org/abs/2404.04102)
