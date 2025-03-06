@@ -6,19 +6,18 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [A Taxonomy of Direct Preference Optimization](#a-taxonomy-of-direct-preference-optimization)
+  - [Basic](#basic)
   - [Data Strategy](#data-strategy)
   - [Learning Framework](#learning-framework)
   - [Constraint Mechanism](#constraint-mechanism)
   - [Model Property](#model-property)
 - [Other Surveys](#other-surveys)
 
-## Overview
-
 ## A Taxonomy of Direct Preference Optimization
 
 ### Basic
+
 - [![arXiv](https://img.shields.io/badge/arXiv-2305.10425-b31b1b.svg)](https://arxiv.org/abs/2305.10425) SLiC-HF: Sequence Likelihood Calibration with Human Feedback
 - [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290) Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2306.17492-b31b1b.svg)](https://arxiv.org/abs/2306.17492) Preference Ranking Optimization for Human Alignment
