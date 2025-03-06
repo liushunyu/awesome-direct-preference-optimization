@@ -142,9 +142,11 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.02502-b31b1b.svg)](https://arxiv.org/abs/2403.02502) Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19443-b31b1b.svg)](https://arxiv.org/abs/2403.19443) Mixed Preference Optimization: Reinforcement Learning with Data Selection and Better Reference Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.04102-b31b1b.svg)](https://arxiv.org/abs/2404.04102) ROPO: Robust Preference Optimization for Large Language Models
+- [![arXiv](https://img.shields.io/badge/arXiv-2404.10719-b31b1b.svg)](https://arxiv.org/abs/2404.10719) Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study 
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.19733-b31b1b.svg)](https://arxiv.org/abs/2404.19733) Iterative Reasoning Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.00451-b31b1b.svg)](https://arxiv.org/abs/2405.00451) Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.01511-b31b1b.svg)](https://arxiv.org/abs/2405.01511) D2PO: Discriminator-Guided DPO with Response Evaluation Models
+- [![arXiv](https://img.shields.io/badge/arXiv-2405.08448-b31b1b.svg)](https://arxiv.org/abs/2405.08448) Understanding the performance gap between online and offline alignment algorithms 
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.19320-b31b1b.svg)](https://arxiv.org/abs/2405.19320) Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.19332-b31b1b.svg)](https://arxiv.org/abs/2405.19332) Self-Exploring Language Models: Active Preference Elicitation for Online Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.21046-b31b1b.svg)](https://arxiv.org/abs/2405.21046) Exploratory Preference Optimization: Provably Sample-Efficient Exploration in RLHF with General Function Approximation
@@ -154,16 +156,20 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.12168-b31b1b.svg)](https://arxiv.org/abs/2406.12168) BPO: Supercharging Online Preference Learning by Adhering to the Proximity of Behavior LLM
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.18248-b31b1b.svg)](https://arxiv.org/abs/2407.18248) Self-training with direct preference optimization improves chain-of-thought reasoning
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.02392-b31b1b.svg)](https://arxiv.org/abs/2409.02392) Building Math Agents with Multi-Turn Iterative Preference Learning
+- [![arXiv](https://img.shields.io/badge/arXiv-2409.08845-b31b1b.svg)](https://arxiv.org/abs/2409.08845) AIPO: Improving Training Objective for Iterative Preference Optimization 
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.19605-b31b1b.svg)](https://arxiv.org/abs/2409.19605) The Crucial Role of Samplers in Online Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.06293-b31b1b.svg)](https://arxiv.org/abs/2410.06293) Accelerated Preference Optimization for Large Language Model Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.06293-b31b1b.svg)](https://arxiv.org/abs/2410.06293) SeRA: Self-Review & Alignment with Implicit Reward Margins
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.12735-b31b1b.svg)](https://arxiv.org/abs/2410.12735) CREAM: Consistency Regularized Self-Rewarding Language Models
-- [![arXiv](https://img.shields.io/badge/arXiv-2410.23223-b31b1b.svg)](https://arxiv.org/abs/2410.23223) COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences 
+- [![arXiv](https://img.shields.io/badge/arXiv-2410.23223-b31b1b.svg)](https://arxiv.org/abs/2410.23223) COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences
+
+
+
 
 #### Paradigm - Active
-- Active Preference Learning for Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2402.08114-b31b1b.svg  )](https://arxiv.org/abs/2402.08114)
-- Reinforcement Learning from Human Feedback with Active Queries [![arXiv](https://img.shields.io/badge/arXiv-2402.09401-b31b1b.svg  )](https://arxiv.org/abs/2402.09401)
-- Active Preference Optimization for Sample Efficient RLHF [![arXiv](https://img.shields.io/badge/arXiv-2402.10500-b31b1b.svg  )](https://arxiv.org/abs/2402.10500)
+- [![arXiv](https://img.shields.io/badge/arXiv-2402.08114-b31b1b.svg)](https://arxiv.org/abs/2402.08114) Active Preference Learning for Large Language Models 
+- [![arXiv](https://img.shields.io/badge/arXiv-2402.09401-b31b1b.svg)](https://arxiv.org/abs/2402.09401) Reinforcement Learning from Human Feedback with Active Queries 
+- [![arXiv](https://img.shields.io/badge/arXiv-2402.10500-b31b1b.svg)](https://arxiv.org/abs/2402.10500) Active Preference Optimization for Sample Efficient RLHF 
 - [[OpenReview]](https://openreview.net/forum?id=bRfVj0Sh88) Active Preference Optimization via Maximizing Learning Capacity
 
 #### Objective - Multi-Objective
@@ -183,6 +189,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.00675-b31b1b.svg)](https://arxiv.org/abs/2405.00675) Self-Play Preference Optimization for Language Model Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.00832-b31b1b.svg)](https://arxiv.org/abs/2406.00832) BoNBoN Alignment for Large Language Models and the Sweetness of Best-of-n Sampling
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.01660-b31b1b.svg)](https://arxiv.org/abs/2406.01660) Self-Improving Robust Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.05400-b31b1b.svg)](https://arxiv.org/abs/2502.05400) Dynamic Noise Preference Optimization for LLM Self-Improvement via Synthetic Data 
 
 ### Constraint Mechanism
 
