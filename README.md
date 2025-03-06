@@ -43,7 +43,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.06691-b31b1b.svg)](https://arxiv.org/abs/2409.06691) Geometric-Averaged Preference Optimization for Soft Preference Labels
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.10148-b31b1b.svg)](https://arxiv.org/abs/2410.10148) α -DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.20996-b31b1b.svg)](https://arxiv.org/abs/2412.20996) Plug-and-Play Training Framework for Preference Optimization
-- [[OpenReview]](https://openreview.net/forum?id=N2sN3LESoW) Gap-Aware Preference Optimization: Enhancing Model Alignment with Perception Margin
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=N2sN3LESoW) Gap-Aware Preference Optimization: Enhancing Model Alignment with Perception Margin
 
 #### Data Quality - Noise
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.00409-b31b1b.svg)](https://arxiv.org/abs/2403.00409) Provably Robust DPO: Aligning Language Models with Noisy Feedback
@@ -51,9 +51,9 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.09824-b31b1b.svg)](https://arxiv.org/abs/2404.09824) Impact of Preference Noise on the Alignment Performance of Generative Language Models
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.04412-b31b1b.svg)](https://arxiv.org/abs/2406.04412) Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.07880-b31b1b.svg)](https://arxiv.org/abs/2407.07880) Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization
-- [[OpenReview]](https://openreview.net/forum?id=H8gLQwg1eC) Understanding Generalization of Preference Optimization Under Noisy Feedback
-- [[OpenReview]](https://openreview.net/forum?id=MlxeUVCQgD) Combating inherent noise for direct preference optimization
-- [[OpenReview]](https://openreview.net/forum?id=OUXnnPJzXJ) Perplexity-aware Correction for Robust Alignment with Noisy Preferences
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=H8gLQwg1eC) Understanding Generalization of Preference Optimization Under Noisy Feedback
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=MlxeUVCQgD) Combating inherent noise for direct preference optimization
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=OUXnnPJzXJ) Perplexity-aware Correction for Robust Alignment with Noisy Preferences
 
 #### Preference Feedback - Point-Wise
 - [![arXiv](https://img.shields.io/badge/arXiv-2312.02554-b31b1b.svg)](https://arxiv.org/abs/2312.02554) ULMA: Unified Language Model Alignment with Human Demonstration and Point-wise Preference
@@ -169,7 +169,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.08114-b31b1b.svg)](https://arxiv.org/abs/2402.08114) Active Preference Learning for Large Language Models 
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.09401-b31b1b.svg)](https://arxiv.org/abs/2402.09401) Reinforcement Learning from Human Feedback with Active Queries 
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.10500-b31b1b.svg)](https://arxiv.org/abs/2402.10500) Active Preference Optimization for Sample Efficient RLHF 
-- [[OpenReview]](https://openreview.net/forum?id=bRfVj0Sh88) Active Preference Optimization via Maximizing Learning Capacity
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=bRfVj0Sh88) Active Preference Optimization via Maximizing Learning Capacity
 
 #### Objective - Multi-Objective
 - [![arXiv](https://img.shields.io/badge/arXiv-2310.03708-b31b1b.svg)](https://arxiv.org/abs/2310.03708) Beyond one-preference-fits-all alignment: Multi-objective direct preference optimization
@@ -177,7 +177,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.12739-b31b1b.svg)](https://arxiv.org/abs/2405.12739) SPO: Multi-Dimensional Preference Sequential Alignment With Implicit Reward Modeling
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.17956-b31b1b.svg)](https://arxiv.org/abs/2405.17956) Hybrid Preference Optimization: Augmenting Direct Preference Optimization with Auxiliary Objectives
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.08458-b31b1b.svg)](https://arxiv.org/abs/2410.08458) Simultaneous Reward Distillation and Preference Learning: Get You a Language Model Who Can Do Both
-- [[OpenReview]](https://openreview.net/forum?id=w0MAu8vjwj) MOSLIM: Align with diverse preferences in prompts through reward classification
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=w0MAu8vjwj) MOSLIM: Align with diverse preferences in prompts through reward classification
 
 #### Objective - Self-Play
 - [![arXiv](https://img.shields.io/badge/arXiv-2312.00886-b31b1b.svg)](https://arxiv.org/abs/2312.00886) Nash learning from human feedback
@@ -207,7 +207,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 #### Divergence - Diversity
 - [![arXiv](https://img.shields.io/badge/arXiv-2309.16240-b31b1b.svg)](https://arxiv.org/abs/2309.16240) Beyond Reverse KL- Generalizing Direct Preference Optimization with Diverse Divergence Constraints
-- [[OpenReview]](https://openreview.net/forum?id=pOq9vDIYev) Diverse Preference Learning for Capabilities and Alignment
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=pOq9vDIYev) Diverse Preference Learning for Capabilities and Alignment
 
 #### Divergence - Generalization
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.00856-b31b1b.svg)](https://arxiv.org/abs/2402.00856) Towards Efficient Exact Optimization of Language Model Alignment
@@ -219,12 +219,12 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.00508-b31b1b.svg)](https://arxiv.org/abs/2410.00508) FlipGuard: Defending Preference Alignment against Update Regression with Constrained Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2411.07618-b31b1b.svg)](https://arxiv.org/abs/2411.07618) Direct Preference Optimization Using Sparse Feature-level Constraints
 - [![arXiv](https://img.shields.io/badge/arXiv-2501.03271-b31b1b.svg)](https://arxiv.org/abs/2501.03271) DPO Kernels: A Semantically-Aware, Kernel-Enhanced, and Divergence-Rich Paradigm for Direct Preference Optimization
-- [[OpenReview]](https://openreview.net/forum?id=pOq9vDIYev) Diverse Preference Learning for Capabilities and Alignment
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=pOq9vDIYev) Diverse Preference Learning for Capabilities and Alignment
 
 #### Safety
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.11049-b31b1b.svg)](https://arxiv.org/abs/2404.11049) Stepwise Alignment for Constrained Language Model Policy Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.14586-b31b1b.svg)](https://arxiv.org/abs/2409.14586) Backtracking Improves Generation Safety
-- [[OpenReview]](https://openreview.net/forum?id=MoJSnVZ59d) SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=MoJSnVZ59d) SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety
 
 ### Model Property
 
@@ -250,7 +250,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.06411-b31b1b.svg)](https://arxiv.org/abs/2409.06411) Length Desensitization in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.17696-b31b1b.svg)](https://arxiv.org/abs/2412.17696) Understanding the Logic of Direct Preference Alignment through Logic
 - [![arXiv](https://img.shields.io/badge/arXiv-2502.14340-b31b1b.svg)](https://arxiv.org/abs/2502.14340) Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
-- [[OpenReview]](https://openreview.net/forum?id=qTrEq31Shm) LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=qTrEq31Shm) LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
 
 #### Optimization - Likelihood
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.13228-b31b1b.svg)](https://arxiv.org/abs/2402.13228) Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive
@@ -263,7 +263,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.08847-b31b1b.svg)](https://arxiv.org/abs/2410.08847) Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.11677-b31b1b.svg)](https://arxiv.org/abs/2410.11677) Understanding Likelihood Over-optimisation in Direct Alignment Algorithms
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.13828-b31b1b.svg)](https://arxiv.org/abs/2410.13828) A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement 
-- [[OpenReview]](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
 
 #### Optimization - Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2309.06256-b31b1b.svg)](https://arxiv.org/abs/2309.06256) Mitigating the Alignment Tax of RLHF
