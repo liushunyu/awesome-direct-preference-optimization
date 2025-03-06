@@ -34,7 +34,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 #### Data Quality - Distinguishability
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.10571-b31b1b.svg)](https://arxiv.org/abs/2402.10571) Direct Preference Optimization with an Offset
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.07230-b31b1b.svg)](https://arxiv.org/abs/2403.07230) Enhancing Alignment using Curriculum Learning & Ranked Preferences
-- [![arXiv](https://img.shields.io/badge/arXiv-2403.192-b31b1b.svg)](https://arxiv.org/abs/2403.192) sDPO: Don't Use Your Data All at Once
+- [![arXiv](https://img.shields.io/badge/arXiv-2403.19270-b31b1b.svg)](https://arxiv.org/abs/2403.19270) sDPO: Don't Use Your Data All at Once
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19443-b31b1b.svg)](https://arxiv.org/abs/2403.19443) Mixed Preference Optimization: Reinforcement Learning with Data Selection and Better Reference Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.13846-b31b1b.svg)](https://arxiv.org/abs/2404.13846) Filtered Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.21040-b31b1b.svg)](https://arxiv.org/abs/2405.21040) Direct Alignment of Language Models via Quality-Aware Self-Refinement
@@ -88,7 +88,6 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2411.02442-b31b1b.svg)](https://arxiv.org/abs/2411.02442) TODO: Enhancing LLM Alignment with Ternary Preferences
 
 #### Preference Granularity - Token-Level
-- [![arXiv](https://img.shields.io/badge/arXiv-2403.1234-b31b1b.svg)](https://arxiv.org/abs/2403.1234) Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.11999-b31b1b.svg)](https://arxiv.org/abs/2404.11999) Token-level Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.12358-b31b1b.svg)](https://arxiv.org/abs/2404.12358) From r to Q∗: Your Language Model is Secretly a Q-Function
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.18922-b31b1b.svg)](https://arxiv.org/abs/2404.18922) DPO Meets PPO: Reinforced Token Optimization for RLHF
@@ -96,6 +95,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2408.16090-b31b1b.svg)](https://arxiv.org/abs/2408.16090) EPO: Hierarchical LLM Agents with Environment Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.04350-b31b1b.svg)](https://arxiv.org/abs/2410.04350) TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.05102-b31b1b.svg)](https://arxiv.org/abs/2410.05102) SparsePO: Controlling Preference Alignment of LLMs via Sparse Token Masks
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.14340-b31b1b.svg)](https://arxiv.org/abs/2502.14340) Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
 
 #### Preference Granularity - Step-Level
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.00451-b31b1b.svg)](https://arxiv.org/abs/2405.00451) Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning
@@ -128,7 +128,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2401.08417-b31b1b.svg)](https://arxiv.org/abs/2401.08417) Contrastive preference optimization: Pushing the boundaries of LLM performance in machine translation
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.07230-b31b1b.svg)](https://arxiv.org/abs/2403.07230) Enhancing Alignment using Curriculum Learning & Ranked Preferences
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.07691-b31b1b.svg)](https://arxiv.org/abs/2403.07691) ORPO: Monolithic Preference Optimization without Reference Model
-- [![arXiv](https://img.shields.io/badge/arXiv-2403.192-b31b1b.svg)](https://arxiv.org/abs/2403.192) sDPO: Don't Use Your Data All at Once
+- [![arXiv](https://img.shields.io/badge/arXiv-2403.19270-b31b1b.svg)](https://arxiv.org/abs/2403.19270) sDPO: Don't Use Your Data All at Once
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.17923-b31b1b.svg)](https://arxiv.org/abs/2406.17923) Paft: A parallel training paradigm for effective LLM fine-tuning
 
 #### Paradigm - Online
@@ -136,6 +136,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2312.11456-b31b1b.svg)](https://arxiv.org/abs/2312.11456) Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint
 - [![arXiv](https://img.shields.io/badge/arXiv-2312.16682-b31b1b.svg)](https://arxiv.org/abs/2312.16682) Some things are more cringe than others: Iterative preference optimization with the pairwise cringe loss
 - [![arXiv](https://img.shields.io/badge/arXiv-2401.10020-b31b1b.svg)](https://arxiv.org/abs/2401.10020) Self-Rewarding Language Models
+- [![arXiv](https://img.shields.io/badge/arXiv-2402.04792-b31b1b.svg)](https://arxiv.org/abs/2402.04792) Direct Language Model Alignment from Online AI Feedback 
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.10038-b31b1b.svg)](https://arxiv.org/abs/2402.10038) RS-DPO: A Hybrid Rejection Sampling and Direct Preference Optimization Method for Alignment of Large Language Models
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.11907-b31b1b.svg)](https://arxiv.org/abs/2402.11907) Direct large language model alignment through self-rewarding contrastive prompt distillation
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.02502-b31b1b.svg)](https://arxiv.org/abs/2403.02502) Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents
@@ -157,8 +158,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.06293-b31b1b.svg)](https://arxiv.org/abs/2410.06293) Accelerated Preference Optimization for Large Language Model Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.06293-b31b1b.svg)](https://arxiv.org/abs/2410.06293) SeRA: Self-Review & Alignment with Implicit Reward Margins
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.12735-b31b1b.svg)](https://arxiv.org/abs/2410.12735) CREAM: Consistency Regularized Self-Rewarding Language Models
-- Direct Language Model Alignment from Online AI Feedback [![arXiv](https://img.shields.io/badge/arXiv-2402...-b31b1b.svg)](https://arxiv.org/abs/2402...)
-- COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences [![arXiv](https://img.shields.io/badge/arXiv-2410.23223-b31b1b.svg)](https://arxiv.org/pdf/2410.23223)
+- [![arXiv](https://img.shields.io/badge/arXiv-2410.23223-b31b1b.svg)](https://arxiv.org/abs/2410.23223) COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences 
 
 #### Paradigm - Active
 - Active Preference Learning for Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2402.08114-b31b1b.svg  )](https://arxiv.org/abs/2402.08114)
@@ -234,7 +234,6 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 #### Generation - Length
 - [![arXiv](https://img.shields.io/badge/arXiv-2304.05302-b31b1b.svg)](https://arxiv.org/abs/2304.05302) Rrhf: Rank responses to align language models with human feedback without tears
 - [![arXiv](https://img.shields.io/badge/arXiv-2310.03716-b31b1b.svg)](https://arxiv.org/abs/2310.03716) A Long Way to Go: Investigating Length Correlations in RLHF
-- [![arXiv](https://img.shields.io/badge/arXiv-2403.1234-b31b1b.svg)](https://arxiv.org/abs/2403.1234) Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19159-b31b1b.svg)](https://arxiv.org/abs/2403.19159) Disentangling Length from Quality in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.14723-b31b1b.svg)](https://arxiv.org/abs/2404.14723) Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.14734-b31b1b.svg)](https://arxiv.org/abs/2405.14734) SimPO: Simple Preference Optimization with a Reference-Free Reward
@@ -243,7 +242,8 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.17744-b31b1b.svg)](https://arxiv.org/abs/2406.17744) Following length constraints in instructions
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.15229-b31b1b.svg)](https://arxiv.org/abs/2407.15229) The Hitchhiker’s Guide to Human Alignment with *PO
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.06411-b31b1b.svg)](https://arxiv.org/abs/2409.06411) Length Desensitization in Direct Preference Optimization
-- Declarative characterizations of direct preference alignment algorithms [![arXiv](https://img.shields.io/badge/arXiv-2412.17696v1-b31b1b.svg)](https://arxiv.org/abs/2412.17696v1)
+- [![arXiv](https://img.shields.io/badge/arXiv-2412.17696-b31b1b.svg)](https://arxiv.org/abs/2412.17696) Understanding the Logic of Direct Preference Alignment through Logic
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.14340-b31b1b.svg)](https://arxiv.org/abs/2502.14340) Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
 - [[OpenReview]](https://openreview.net/forum?id=qTrEq31Shm) LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
 
 #### Optimization - Likelihood
@@ -256,14 +256,14 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2408.06266-b31b1b.svg)](https://arxiv.org/abs/2408.06266) Anchored Preference Optimization and Contrastive Revisions: Addressing Underspecification in Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.08847-b31b1b.svg)](https://arxiv.org/abs/2410.08847) Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.11677-b31b1b.svg)](https://arxiv.org/abs/2410.11677) Understanding Likelihood Over-optimisation in Direct Alignment Algorithms
-- Common Pitfalls of Margin-based Preference Optimization in Language Model Alignment [![arXiv](https://img.shields.io/badge/arXiv-2410.13828-b31b1b.svg)](https://arxiv.org/pdf/2410.13828)
+- [![arXiv](https://img.shields.io/badge/arXiv-2410.13828-b31b1b.svg)](https://arxiv.org/abs/2410.13828) A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement 
 - [[OpenReview]](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
 
 #### Optimization - Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2309.06256-b31b1b.svg)](https://arxiv.org/abs/2309.06256) Mitigating the Alignment Tax of RLHF
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.19534-b31b1b.svg)](https://arxiv.org/abs/2405.19534) Preference Learning Algorithms Do Not Learn Preference Rankings
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.04879-b31b1b.svg)](https://arxiv.org/abs/2406.04879) A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques
-- [![arXiv](https://img.shields.io/badge/arXiv-2406.17923-b31b1b.svg)](https://arxiv.org/abs/2406.17923) Paft: A parallel training paradigm for effective LLM fine-tuning
+- [![arXiv](https://img.shields.io/badge/arXiv-2406.17923-b31b1b.svg)](https://arxiv.org/abs/2406.17923) PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning
 
 ## Other Surveys
 
