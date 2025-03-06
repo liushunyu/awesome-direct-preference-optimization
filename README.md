@@ -273,17 +273,17 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 ## Other Surveys
 
-- A Survey of Preference-Based Reinforcement Learning Methods 
-- Ai alignment: A comprehensive survey
-- Aligning large language models with human: A survey
-- Large language model alignment: A survey
-- On the essence and prospect: An investigation of alignment approaches for big models
-- The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values
-- Bridging the gap: A survey on integrating (human) feedback for natural language generation
-- A Survey on Human Preference Learning for Large Language Models
-- A survey of reinforcement learning from human feedback
-- Towards a unified view of preference learning for large language models: A survey
-- Preference tuning with human feedback on language, speech, and vision tasks: A survey
-- A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more
-- A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications
+- [![JMLR](https://img.shields.io/badge/JMLR-2017-blue)](https://www.jmlr.org/papers/v18/16-634.html) A Survey of Preference-Based Reinforcement Learning Methods
+- [![arXiv](https://img.shields.io/badge/arXiv-2305.00955-b31b1b.svg)](https://arxiv.org/abs/2305.00955) Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation
+- [![arXiv](https://img.shields.io/badge/arXiv-2307.12966-b31b1b.svg)](https://arxiv.org/abs/2307.12966) Aligning Large Language Models with Human: A Survey
+- [![arXiv](https://img.shields.io/badge/arXiv-2309.15025-b31b1b.svg)](https://arxiv.org/abs/2309.15025) Large Language Model Alignment: A Survey
+- [![arXiv](https://img.shields.io/badge/arXiv-2310.07629-b31b1b.svg)](https://arxiv.org/abs/2310.07629) The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values
+- [![arXiv](https://img.shields.io/badge/arXiv-2310.19852-b31b1b.svg)](https://arxiv.org/abs/2310.19852) AI Alignment: A Comprehensive Survey
+- [![arXiv](https://img.shields.io/badge/arXiv-2312.14925-b31b1b.svg)](https://arxiv.org/abs/2312.14925) A Survey of Reinforcement Learning from Human Feedback
+- [![arXiv](https://img.shields.io/badge/arXiv-2403.04204-b31b1b.svg)](https://arxiv.org/abs/2403.04204) On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models
+- [![arXiv](https://img.shields.io/badge/arXiv-2406.11191-b31b1b.svg)](https://arxiv.org/abs/2406.11191) A Survey on Human Preference Learning for Large Language Models
+- [![arXiv](https://img.shields.io/badge/arXiv-2407.16216-b31b1b.svg)](https://arxiv.org/abs/2407.16216) A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO and More
+- [![arXiv](https://img.shields.io/badge/arXiv-2409.02795-b31b1b.svg)](https://arxiv.org/abs/2409.02795) Towards a Unified View of Preference Learning for Large Language Models: A Survey
+- [![arXiv](https://img.shields.io/badge/arXiv-2409.11564-b31b1b.svg)](https://arxiv.org/abs/2409.11564) Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey
+- [![arXiv](https://img.shields.io/badge/arXiv-2410.15595-b31b1b.svg)](https://arxiv.org/abs/2410.15595) A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications
 
