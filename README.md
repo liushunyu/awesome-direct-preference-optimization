@@ -319,12 +319,24 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 #### Optimization - Alignment
 
-- A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques [![arXiv](https://img.shields.io/badge/arXiv-2406.04879-b31b1b.svg  )](https://arxiv.org/abs/2406.04879)  
-- Preference Learning Algorithms Do Not Learn Preference Rankings [![arXiv](https://img.shields.io/badge/arXiv-2405.19534-b31b1b.svg  )](https://arxiv.org/abs/2405.19534)
+- A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques [![arXiv](https://img.shields.io/badge/arXiv-2406.04879-b31b1b.svg)](https://arxiv.org/abs/2406.04879)  
+- Preference Learning Algorithms Do Not Learn Preference Rankings [![arXiv](https://img.shields.io/badge/arXiv-2405.19534-b31b1b.svg)](https://arxiv.org/abs/2405.19534)
 - Paft: A parallel training paradigm for effective LLM fine-tuning [![arXiv](https://img.shields.io/badge/arXiv-2024.06-b31b1b.svg)](https://arxiv.org/abs/2406.17923)
 - Mitigating the Alignment Tax of RLHF [![arXiv](https://img.shields.io/badge/arXiv-2023.09-b31b1b.svg)](https://arxiv.org/abs/2309.06256)
 
 ## Other Surveys
 
-
+- A Survey of Preference-Based Reinforcement Learning Methods 
+- Ai alignment: A comprehensive survey
+- Aligning large language models with human: A survey
+- Large language model alignment: A survey
+- On the essence and prospect: An investigation of alignment approaches for big models
+- The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values
+- Bridging the gap: A survey on integrating (human) feedback for natural language generation
+- A Survey on Human Preference Learning for Large Language Models
+- A survey of reinforcement learning from human feedback
+- Towards a unified view of preference learning for large language models: A survey
+- Preference tuning with human feedback on language, speech, and vision tasks: A survey
+- A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more
+- A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications
 
