@@ -1,10 +1,18 @@
 # Awesome Direct Preference Optimization
 
-A list of selected paper and possible corresponding codes in our review paper [A Survey of Direct Preference Optimization]().
+A list of selected papers in our review paper [A Survey of Direct Preference Optimization]().
 
-*If you find there is a missed paper or a possible mistake in our survey, please feel free to email me ([shunyu.liu@ntu.edu.sg](mailto:shunyu.liu@ntu.edu.sg)) or pull a request here. I am more than glad to receive your advice. Thanks!*
+*If you find a missing paper or a possible mistake in our survey, please feel free to create an issue or pull a request here. I am more than glad to receive your advice. Thanks!*
 
 ## Table of Contents
+
+- [Overview](#overview)
+- [A Taxonomy of Direct Preference Optimization](#a-taxonomy-of-direct-preference-optimization)
+  - [Data Strategy](#data-strategy)
+  - [Learning Framework](#learning-framework)
+  - [Constraint Mechanism](#constraint-mechanism)
+  - [Model Property](#model-property)
+- [Other Surveys](#other-surveys)
 
 ## Overview
 
