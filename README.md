@@ -125,6 +125,8 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290) Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2312.02554-b31b1b.svg)](https://arxiv.org/abs/2312.02554) ULMA: Unified Language Model Alignment with Human Demonstration and Point-wise Preference
 - [![arXiv](https://img.shields.io/badge/arXiv-2401.08417-b31b1b.svg)](https://arxiv.org/abs/2401.08417) Contrastive preference optimization: Pushing the boundaries of LLM performance in machine translation
+- [![arXiv](https://img.shields.io/badge/arXiv-2401.11458-b31b1b.svg)](https://arxiv.org/abs/2401.11458) Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback
+- [![arXiv](https://img.shields.io/badge/arXiv-2402.09320-b31b1b.svg)](https://arxiv.org/abs/2402.09320) ICDPO: Effectively Borrowing Alignment Capability of Others via In-context Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.07230-b31b1b.svg)](https://arxiv.org/abs/2403.07230) Enhancing Alignment using Curriculum Learning & Ranked Preferences
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.07691-b31b1b.svg)](https://arxiv.org/abs/2403.07691) ORPO: Monolithic Preference Optimization without Reference Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19270-b31b1b.svg)](https://arxiv.org/abs/2403.19270) sDPO: Don't Use Your Data All at Once
@@ -161,8 +163,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.06293-b31b1b.svg)](https://arxiv.org/abs/2410.06293) SeRA: Self-Review & Alignment with Implicit Reward Margins
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.12735-b31b1b.svg)](https://arxiv.org/abs/2410.12735) CREAM: Consistency Regularized Self-Rewarding Language Models
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.23223-b31b1b.svg)](https://arxiv.org/abs/2410.23223) COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences
-
-
+- [![arXiv](https://img.shields.io/badge/arXiv-2501.12735-b31b1b.svg)](https://arxiv.org/abs/2501.12735) Online Preference Alignment for Language Models via Count-based Exploration
 
 
 #### Paradigm - Active
