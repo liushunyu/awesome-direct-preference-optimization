@@ -214,18 +214,20 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.00856-b31b1b.svg)](https://arxiv.org/abs/2402.00856) Towards Efficient Exact Optimization of Language Model Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.05749-b31b1b.svg)](https://arxiv.org/abs/2402.05749) Generalized Preference Optimization: A Unified Approach to Offline Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.00747-b31b1b.svg)](https://arxiv.org/abs/2405.00747) Soft Preference Optimization: Aligning Language Models to Expert Distributions
-- [![arXiv](https://img.shields.io/badge/arXiv-2405.14734-b31b1b.svg)](https://arxiv.org/abs/2405.14734) SimPO: Simple Preference Optimization with a Reference-Free Reward
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.03051-b31b1b.svg)](https://arxiv.org/abs/2407.03051) Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.13399-b31b1b.svg)](https://arxiv.org/abs/2407.13399) Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-Squared Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.00508-b31b1b.svg)](https://arxiv.org/abs/2410.00508) FlipGuard: Defending Preference Alignment against Update Regression with Constrained Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2411.07618-b31b1b.svg)](https://arxiv.org/abs/2411.07618) Direct Preference Optimization Using Sparse Feature-level Constraints
 - [![arXiv](https://img.shields.io/badge/arXiv-2501.03271-b31b1b.svg)](https://arxiv.org/abs/2501.03271) DPO Kernels: A Semantically-Aware, Kernel-Enhanced, and Divergence-Rich Paradigm for Direct Preference Optimization
-- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=pOq9vDIYev) Diverse Preference Learning for Capabilities and Alignment
 
 #### Safety
+- [![arXiv](https://img.shields.io/badge/arXiv-2401.01967-b31b1b.svg)](https://arxiv.org/abs/2401.01967) A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.11049-b31b1b.svg)](https://arxiv.org/abs/2404.11049) Stepwise Alignment for Constrained Language Model Policy Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2403.02475-b31b1b.svg)](https://arxiv.org/abs/2403.02475) Enhancing LLM Safety via Constrained Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2405.12900-b31b1b.svg)](https://arxiv.org/abs/2405.12900) Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.14586-b31b1b.svg)](https://arxiv.org/abs/2409.14586) Backtracking Improves Generation Safety
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=MoJSnVZ59d) SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety
+
 
 ### Model Property
 
