@@ -54,7 +54,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.07880-b31b1b.svg)](https://arxiv.org/abs/2407.07880) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)]() Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=H8gLQwg1eC) Understanding Generalization of Preference Optimization Under Noisy Feedback
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=MlxeUVCQgD) Combating inherent noise for direct preference optimization
-- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=OUXnnPJzXJ) Perplexity-aware Correction for Robust Alignment with Noisy Preferences
+- [![OpenReview](https://img.shields.io/badge/NeurIPS-2024-blue)](https://openreview.net/forum?id=OUXnnPJzXJ) Perplexity-aware Correction for Robust Alignment with Noisy Preferences
 
 #### Preference Feedback - Point-Wise
 - [![arXiv](https://img.shields.io/badge/arXiv-2312.02554-b31b1b.svg)](https://arxiv.org/abs/2312.02554) ULMA: Unified Language Model Alignment with Human Demonstration and Point-wise Preference
@@ -210,7 +210,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 #### Divergence - Diversity
 - [![arXiv](https://img.shields.io/badge/arXiv-2309.16240-b31b1b.svg)](https://arxiv.org/abs/2309.16240) [![arXiv](https://img.shields.io/badge/ICLR-2024-blue.svg)]() Beyond Reverse KL- Generalizing Direct Preference Optimization with Diverse Divergence Constraints
-- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=pOq9vDIYev) Diverse Preference Learning for Capabilities and Alignment
+- [![OpenReview](https://img.shields.io/badge/ICLR-2025-blue)](https://openreview.net/forum?id=pOq9vDIYev) Diverse Preference Learning for Capabilities and Alignment
 
 #### Divergence - Generalization
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.00856-b31b1b.svg)](https://arxiv.org/abs/2402.00856) [![arXiv](https://img.shields.io/badge/ICML-2024-blue.svg)]() Towards Efficient Exact Optimization of Language Model Alignment
@@ -253,7 +253,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.06411-b31b1b.svg)](https://arxiv.org/abs/2409.06411) Length Desensitization in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.17696-b31b1b.svg)](https://arxiv.org/abs/2412.17696) Understanding the Logic of Direct Preference Alignment through Logic
 - [![arXiv](https://img.shields.io/badge/arXiv-2502.14340-b31b1b.svg)](https://arxiv.org/abs/2502.14340) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)]() Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
-- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=qTrEq31Shm) LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
+- [![OpenReview](https://img.shields.io/badge/ICLR-2025-blue)](https://openreview.net/forum?id=qTrEq31Shm) LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
 
 #### Optimization - Likelihood
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.13228-b31b1b.svg)](https://arxiv.org/abs/2402.13228) Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive
@@ -281,7 +281,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.08414-b31b1b.svg)](https://arxiv.org/abs/2406.08414) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() Discovering Preference Optimization Algorithms with and for Large Language Models
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.09279-b31b1b.svg)](https://arxiv.org/abs/2406.09279) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.04203-b31b1b.svg)](https://arxiv.org/abs/2410.04203) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)]() RainbowPO: A Unified Framework for Combining Improvements in Preference Optimization
-- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
+- [![ICLR Tiny Paper](https://img.shields.io/badge/ICLR%20Tiny%20Paper-2024-blue)](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
 
 
 
