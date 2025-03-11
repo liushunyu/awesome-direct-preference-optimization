@@ -257,7 +257,6 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 #### Optimization - Likelihood
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.13228-b31b1b.svg)](https://arxiv.org/abs/2402.13228) Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive
-- [![arXiv](https://img.shields.io/badge/arXiv-2403.01857-b31b1b.svg)](https://arxiv.org/abs/2403.01857) Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.04626-b31b1b.svg)](https://arxiv.org/abs/2404.04626) Towards Analyzing and Understanding the Limitations of DPO: A Theoretical Perspective
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.12358-b31b1b.svg)](https://arxiv.org/abs/2404.12358) From r to Q∗: Your Language Model is Secretly a Q-Function
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.19316-b31b1b.svg)](https://arxiv.org/abs/2405.19316) Robust Preference Optimization through Reward Model Distillation
@@ -266,7 +265,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.08847-b31b1b.svg)](https://arxiv.org/abs/2410.08847) Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.11677-b31b1b.svg)](https://arxiv.org/abs/2410.11677) Understanding Likelihood Over-optimisation in Direct Alignment Algorithms
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.13828-b31b1b.svg)](https://arxiv.org/abs/2410.13828) A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement 
-- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
+
 
 #### Optimization - Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2309.06256-b31b1b.svg)](https://arxiv.org/abs/2309.06256) Mitigating the Alignment Tax of RLHF
@@ -277,10 +276,12 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 
 #### Other Analysis
+- [![arXiv](https://img.shields.io/badge/arXiv-2403.01857-b31b1b.svg)](https://arxiv.org/abs/2403.01857) Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.14723-b31b1b.svg)](https://arxiv.org/abs/2404.14723) Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.08414-b31b1b.svg)](https://arxiv.org/abs/2406.08414) Discovering Preference Optimization Algorithms with and for Large Language Models
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.09279-b31b1b.svg)](https://arxiv.org/abs/2406.09279) Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.04203-b31b1b.svg)](https://arxiv.org/abs/2410.04203) RainbowPO: A Unified Framework for Combining Improvements in Preference Optimization
+- [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
 
 
 
