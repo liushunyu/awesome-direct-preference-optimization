@@ -252,8 +252,9 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.15229-b31b1b.svg)](https://arxiv.org/abs/2407.15229) The Hitchhiker’s Guide to Human Alignment with *PO
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.06411-b31b1b.svg)](https://arxiv.org/abs/2409.06411) Length Desensitization in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.17696-b31b1b.svg)](https://arxiv.org/abs/2412.17696) Understanding the Logic of Direct Preference Alignment through Logic
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.13922-b31b1b.svg)](https://arxiv.org/abs/2502.13922) [![OpenReview](https://img.shields.io/badge/ICLR-2025-blue)](https://openreview.net/forum?id=qTrEq31Shm) LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2502.14340-b31b1b.svg)](https://arxiv.org/abs/2502.14340) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)]() Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
-- [![OpenReview](https://img.shields.io/badge/ICLR-2025-blue)](https://openreview.net/forum?id=qTrEq31Shm) LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
+
 
 #### Optimization - Likelihood
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.13228-b31b1b.svg)](https://arxiv.org/abs/2402.13228) Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive
