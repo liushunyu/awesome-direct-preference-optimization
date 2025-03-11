@@ -32,15 +32,15 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.20299-b31b1b.svg)](https://arxiv.org/abs/2412.20299) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)]() No Preference Left Behind: Group Distributional Preference Optimization
 
 #### Data Quality - Distinguishability
-- [![arXiv](https://img.shields.io/badge/arXiv-2402.10571-b31b1b.svg)](https://arxiv.org/abs/2402.10571) [![arXiv](https://img.shields.io/badge/ACL-2024-blue.svg)]() Direct Preference Optimization with an Offset
+- [![arXiv](https://img.shields.io/badge/arXiv-2402.10571-b31b1b.svg)](https://arxiv.org/abs/2402.10571) [![arXiv](https://img.shields.io/badge/ACL%20Findings-2024-blue.svg)]() Direct Preference Optimization with an Offset
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.07230-b31b1b.svg)](https://arxiv.org/abs/2403.07230) [![arXiv](https://img.shields.io/badge/EMNLP-2024-blue.svg)]() Enhancing Alignment using Curriculum Learning & Ranked Preferences
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19270-b31b1b.svg)](https://arxiv.org/abs/2403.19270) sDPO: Don't Use Your Data All at Once
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19443-b31b1b.svg)](https://arxiv.org/abs/2403.19443) Mixed Preference Optimization: Reinforcement Learning with Data Selection and Better Reference Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.13846-b31b1b.svg)](https://arxiv.org/abs/2404.13846) [![arXiv](https://img.shields.io/badge/EMNLP-2024-blue.svg)]() Filtered Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.21040-b31b1b.svg)](https://arxiv.org/abs/2405.21040) Direct Alignment of Language Models via Quality-Aware Self-Refinement
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.02764-b31b1b.svg)](https://arxiv.org/abs/2406.02764) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() Adaptive Preference Scaling for Reinforcement Learning with Human Feedback
-- [![arXiv](https://img.shields.io/badge/arXiv-2407.08639-b31b1b.svg)](https://arxiv.org/abs/2407.08639) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() β-dpo: Direct preference optimization with dynamic β
-- [![arXiv](https://img.shields.io/badge/arXiv-2408.09385-b31b1b.svg)](https://arxiv.org/abs/2408.09385) [![arXiv](https://img.shields.io/badge/EMNLP%20Finding-2024-blue.svg)]() Reward Difference Optimization For Sample Reweighting In Offline RLHF
+- [![arXiv](https://img.shields.io/badge/arXiv-2407.08639-b31b1b.svg)](https://arxiv.org/abs/2407.08639) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() $\beta$-dpo: Direct preference optimization with dynamic $\beta$
+- [![arXiv](https://img.shields.io/badge/arXiv-2408.09385-b31b1b.svg)](https://arxiv.org/abs/2408.09385) [![arXiv](https://img.shields.io/badge/EMNLP%20Findings-2024-blue.svg)]() Reward Difference Optimization for Sample Reweighting in Offline RLHF
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.06691-b31b1b.svg)](https://arxiv.org/abs/2409.06691) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() Geometric-Averaged Preference Optimization for Soft Preference Labels
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.10148-b31b1b.svg)](https://arxiv.org/abs/2410.10148) α -DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.20996-b31b1b.svg)](https://arxiv.org/abs/2412.20996) Plug-and-Play Training Framework for Preference Optimization
@@ -175,7 +175,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=bRfVj0Sh88) Active Preference Optimization via Maximizing Learning Capacity
 
 #### Objective - Multi-Objective
-- [![arXiv](https://img.shields.io/badge/arXiv-2310.03708-b31b1b.svg)](https://arxiv.org/abs/2310.03708) [![arXiv](https://img.shields.io/badge/ACL%20Finding-2024-blue.svg)]() Beyond one-preference-fits-all alignment: Multi-objective direct preference optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2310.03708-b31b1b.svg)](https://arxiv.org/abs/2310.03708) [![arXiv](https://img.shields.io/badge/ACL%20Findings-2024-blue.svg)]() Beyond one-preference-fits-all alignment: Multi-objective direct preference optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.19085-b31b1b.svg)](https://arxiv.org/abs/2402.19085) [![arXiv](https://img.shields.io/badge/EMNLP-2024-blue.svg)]() Controllable Preference Optimization: Toward Controllable Multi-Objective Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.12739-b31b1b.svg)](https://arxiv.org/abs/2405.12739) SPO: Multi-Dimensional Preference Sequential Alignment With Implicit Reward Modeling
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.17956-b31b1b.svg)](https://arxiv.org/abs/2405.17956) Hybrid Preference Optimization: Augmenting Direct Preference Optimization with Auxiliary Objectives
@@ -239,12 +239,12 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.19332-b31b1b.svg)](https://arxiv.org/abs/2405.19332) Self-Exploring Language Models: Active Preference Elicitation for Online Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.01660-b31b1b.svg)](https://arxiv.org/abs/2406.01660) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)]() Self-Improving Robust Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.18676-b31b1b.svg)](https://arxiv.org/abs/2407.18676) Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift
-- [![arXiv](https://img.shields.io/badge/arXiv-2409.03650-b31b1b.svg)](https://arxiv.org/abs/2409.03650) [![arXiv](https://img.shields.io/badge/EMNLP-2024-blue.svg)]() On the limited generalization capability of the implicit reward model induced by direct preference optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2409.03650-b31b1b.svg)](https://arxiv.org/abs/2409.03650) [![arXiv](https://img.shields.io/badge/EMNLP%20Findings-2024-blue.svg)]() On the limited generalization capability of the implicit reward model induced by direct preference optimization
 
 #### Generation - Length
 - [![arXiv](https://img.shields.io/badge/arXiv-2304.05302-b31b1b.svg)](https://arxiv.org/abs/2304.05302) [![arXiv](https://img.shields.io/badge/NeurIPS-2023-blue.svg)]() RRHF: Rank responses to align language models with human feedback without tears
 - [![arXiv](https://img.shields.io/badge/arXiv-2310.03716-b31b1b.svg)](https://arxiv.org/abs/2310.03716) [![arXiv](https://img.shields.io/badge/COLM-2024-blue.svg)]() A Long Way to Go: Investigating Length Correlations in RLHF
-- [![arXiv](https://img.shields.io/badge/arXiv-2403.19159-b31b1b.svg)](https://arxiv.org/abs/2403.19159) [![arXiv](https://img.shields.io/badge/ACL%20Finding-2024-blue.svg)]() Disentangling Length from Quality in Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2403.19159-b31b1b.svg)](https://arxiv.org/abs/2403.19159) [![arXiv](https://img.shields.io/badge/ACL%20Findings-2024-blue.svg)]() Disentangling Length from Quality in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.14734-b31b1b.svg)](https://arxiv.org/abs/2405.14734) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() SimPO: Simple Preference Optimization with a Reference-Free Reward
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.10957-b31b1b.svg)](https://arxiv.org/abs/2406.10957) [![arXiv](https://img.shields.io/badge/EMNLP-2024-blue.svg)]() Eliminating Biased Length Reliance of Direct Preference Optimization via Down-Sampled KL Divergence
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.14868-b31b1b.svg)](https://arxiv.org/abs/2406.14868) [![arXiv](https://img.shields.io/badge/EMNLP-2024-blue.svg)]() Direct Multi-Turn Preference Optimization for Language Agents
@@ -281,7 +281,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.08414-b31b1b.svg)](https://arxiv.org/abs/2406.08414) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() Discovering Preference Optimization Algorithms with and for Large Language Models
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.09279-b31b1b.svg)](https://arxiv.org/abs/2406.09279) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)]() Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.04203-b31b1b.svg)](https://arxiv.org/abs/2410.04203) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)]() RainbowPO: A Unified Framework for Combining Improvements in Preference Optimization
-- [![ICLR Tiny Paper](https://img.shields.io/badge/ICLR%20Tiny%20Paper-2024-blue)](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
+- [![OpenReview](https://img.shields.io/badge/ICLR%20Tiny%20Papers-2024-blue)](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
 
 
 
