@@ -23,6 +23,9 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290) Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2306.17492-b31b1b.svg)](https://arxiv.org/abs/2306.17492) Preference Ranking Optimization for Human Alignment
 
+### Analysis
+- [![arXiv](https://img.shields.io/badge/arXiv-2404.14723-b31b1b.svg)](https://arxiv.org/abs/2404.14723) Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
+
 ### Data Strategy
 
 #### Data Quality - Heterogeneity
@@ -239,13 +242,11 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.01660-b31b1b.svg)](https://arxiv.org/abs/2406.01660) Self-Improving Robust Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.18676-b31b1b.svg)](https://arxiv.org/abs/2407.18676) Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.03650-b31b1b.svg)](https://arxiv.org/abs/2409.03650) On the limited generalization capability of the implicit reward model induced by direct preference optimization
-- [![arXiv](https://img.shields.io/badge/arXiv-2409.17431-b31b1b.svg)](https://arxiv.org/abs/2409.17431) On Extending Direct Preference Optimization to Accommodate Ties
 
 #### Generation - Length
 - [![arXiv](https://img.shields.io/badge/arXiv-2304.05302-b31b1b.svg)](https://arxiv.org/abs/2304.05302) RRHF: Rank responses to align language models with human feedback without tears
 - [![arXiv](https://img.shields.io/badge/arXiv-2310.03716-b31b1b.svg)](https://arxiv.org/abs/2310.03716) A Long Way to Go: Investigating Length Correlations in RLHF
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19159-b31b1b.svg)](https://arxiv.org/abs/2403.19159) Disentangling Length from Quality in Direct Preference Optimization
-- [![arXiv](https://img.shields.io/badge/arXiv-2404.14723-b31b1b.svg)](https://arxiv.org/abs/2404.14723) Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.14734-b31b1b.svg)](https://arxiv.org/abs/2405.14734) SimPO: Simple Preference Optimization with a Reference-Free Reward
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.10957-b31b1b.svg)](https://arxiv.org/abs/2406.10957) Eliminating Biased Length Reliance of Direct Preference Optimization via Down-Sampled KL Divergence
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.14868-b31b1b.svg)](https://arxiv.org/abs/2406.14868) Direct Multi-Turn Preference Optimization for Language Agents
