@@ -23,9 +23,6 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290) Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2306.17492-b31b1b.svg)](https://arxiv.org/abs/2306.17492) Preference Ranking Optimization for Human Alignment
 
-### Analysis
-- [![arXiv](https://img.shields.io/badge/arXiv-2404.14723-b31b1b.svg)](https://arxiv.org/abs/2404.14723) Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
-
 ### Data Strategy
 
 #### Data Quality - Heterogeneity
@@ -71,6 +68,7 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 #### Preference Feedback - Pair-Wise
 - [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290) Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+- [![arXiv](https://img.shields.io/badge/arXiv-2310.12036-b31b1b.svg)](https://arxiv.org/abs/2310.12036) A General Theoretical Paradigm to Understand Learning from Human Preferences
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.03419-b31b1b.svg)](https://arxiv.org/abs/2403.03419) Negating negatives: Alignment without human positive samples via distributional dispreference optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.05868-b31b1b.svg)](https://arxiv.org/abs/2404.05868) Negative preference optimization: From catastrophic collapse to effective unlearning
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.20830-b31b1b.svg)](https://arxiv.org/abs/2405.20830) Self-Augmented Preference Optimization: Off-Policy Paradigms for Language Model Alignment
@@ -275,6 +273,15 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.19534-b31b1b.svg)](https://arxiv.org/abs/2405.19534) Preference Learning Algorithms Do Not Learn Preference Rankings
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.04879-b31b1b.svg)](https://arxiv.org/abs/2406.04879) A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.17923-b31b1b.svg)](https://arxiv.org/abs/2406.17923) PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning
+
+#### Other Analysis
+- [![arXiv](https://img.shields.io/badge/arXiv-2404.14723-b31b1b.svg)](https://arxiv.org/abs/2404.14723) Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
+- [![arXiv](https://img.shields.io/badge/arXiv-2406.08414-b31b1b.svg)](https://arxiv.org/abs/2406.08414) Discovering Preference Optimization Algorithms with and for Large Language Models
+- [![arXiv](https://img.shields.io/badge/arXiv-2406.09279-b31b1b.svg)](https://arxiv.org/abs/2406.09279) Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
+- [![arXiv](https://img.shields.io/badge/arXiv-2410.04203-b31b1b.svg)](https://arxiv.org/abs/2410.04203) RainbowPO: A Unified Framework for Combining Improvements in Preference Optimization
+
+
+
 
 ## Other Surveys
 
