@@ -1,5 +1,8 @@
 # Awesome Direct Preference Optimization
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome DPO](https://img.shields.io/badge/Awesome-XRL-blue)](https://github.com/topics/awesome)
+
 A list of selected papers in our review paper [A Survey of Direct Preference Optimization]().
 
 *If you find a missing paper or a possible mistake in our survey, please feel free to create an issue or pull a request here. I am more than glad to receive your advice. Thanks!*
@@ -15,6 +18,18 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 - [Other Surveys](#other-surveys)
 
 ## A Taxonomy of Direct Preference Optimization
+
+In this survey, we introduce a novel taxonomy that categorizes existing DPO works into four key dimensions based on different components of the DPO loss: **data strategy**, **learning framework**, **constraint mechanism**, and **model property**. 
+
+<div align="center">
+<img src="https://github.com/liushunyu/awesome-direct-preference-optimization/blob/main/framework.png" width="100%">
+</div>
+
+This taxonomy provides a systematic framework for understanding the methodological evolution of DPO and highlights the key distinctions between different variations.
+
+<div align="center">
+<img src="https://github.com/liushunyu/awesome-direct-preference-optimization/blob/main/taxonomy.png" width="100%">
+</div>
 
 ### Basic
 
