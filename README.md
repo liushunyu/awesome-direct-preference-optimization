@@ -270,9 +270,11 @@ A list of selected papers in our review paper [A Survey of Direct Preference Opt
 
 #### Optimization - Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2309.06256-b31b1b.svg)](https://arxiv.org/abs/2309.06256) Mitigating the Alignment Tax of RLHF
+- [![arXiv](https://img.shields.io/badge/arXiv-2405.17931-b31b1b.svg)](https://arxiv.org/abs/2405.17931) Online Merging Optimizers for Boosting Rewards and Mitigating Tax in Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.19534-b31b1b.svg)](https://arxiv.org/abs/2405.19534) Preference Learning Algorithms Do Not Learn Preference Rankings
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.04879-b31b1b.svg)](https://arxiv.org/abs/2406.04879) A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.17923-b31b1b.svg)](https://arxiv.org/abs/2406.17923) PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning
+
 
 #### Other Analysis
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.14723-b31b1b.svg)](https://arxiv.org/abs/2404.14723) Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
