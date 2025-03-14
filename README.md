@@ -6,7 +6,7 @@
 
 A list of selected papers in our survey paper titled "[A Survey of Direct Preference Optimization]()" (coming soon).
 
-*If you find a missing paper or a possible mistake in our survey, please feel free to create an issue or pull a request here. I am more than glad to receive your advice. Thanks!*
+*If you find a missing paper or a possible mistake in our survey, please feel free to open an issue or pull a request here. I am more than glad to receive your advice. Thanks!*
 
 ## 📚 Citation
 If you find this survey useful for your research, please consider citing
