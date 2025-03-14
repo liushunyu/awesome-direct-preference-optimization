@@ -20,7 +20,7 @@ If you find this survey useful for your research, please consider citing
 
 ## 🔥 News
 
-- **`[Mar 12, 2025]`** We have uploaded our survey paper titled "[A Survey of Direct Preference Optimization]()" to arXiv (coming soon). Please feel free to cite or open pull requests for your awesome studies.
+- **`[Mar 12, 2025]`** We have uploaded our survey paper titled "[A Survey of Direct Preference Optimization]()" to arXiv (coming soon). Please feel free to cite or pull a request for your awesome studies.
 
 ## ✨ Overview 
 
