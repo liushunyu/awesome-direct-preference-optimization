@@ -27,19 +27,20 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [A Taxonomy of Direct Preference Optimization](#overview)
   - [Basic](#basic)
   - [Data Strategy](#data-strategy)
-    - Data Quality
-    - Preference Feedback
-    - Preference Granularity
+    - [Data Quality](#data-quality)
+    - [Preference Feedback](#preference-feedback)
+    - [Preference Granularity](#preference-granularity)
   - [Learning Framework](#learning-framework)
-    - Learning Paradigm
-    - Learning Objective
+    - [Learning Paradigm](#learning-paradigm)
+    - [Learning Objective](#learning-objective)
   - [Constraint Mechanism](#constraint-mechanism)
-    - Reference Model
-    - Divergence Constraint
-    - Safety Constraint
+    - [Reference Model](#reference-model)
+    - [Divergence Constraint](#divergence-constraint)
+    - [Safety Constraint](#safety-constraint)
   - [Model Property](#model-property)
-    - Generation Property
-    - Optimization Property
+    - [Generation Property](#generation-property)
+    - [Optimization Property](#optimization-property)
+    - [Other Analysis](#other-analysis)
 - [Other Surveys](#other-surveys)
 
 
