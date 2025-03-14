@@ -1,7 +1,7 @@
 # Awesome Direct Preference Optimization
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![arXiv](https://img.shields.io/badge/arXiv-Coming Soon-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)]()
 [![Paper](https://img.shields.io/badge/Paper-215-blue.svg)]()
 
 A list of selected papers in our review paper [A Survey of Direct Preference Optimization]().
