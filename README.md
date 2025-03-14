@@ -1,11 +1,13 @@
 # Awesome Direct Preference Optimization
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Awesome DPO](https://img.shields.io/badge/Awesome-XRL-blue)](https://github.com/topics/awesome)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming Soon-b31b1b.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-215-blue.svg)]()
 
 A list of selected papers in our review paper [A Survey of Direct Preference Optimization]().
 
 *If you find a missing paper or a possible mistake in our survey, please feel free to create an issue or pull a request here. I am more than glad to receive your advice. Thanks!*
+
 
 
 # ✨ Overview 
@@ -41,7 +43,7 @@ This taxonomy provides a systematic framework for understanding the methodologic
     - [Generation Property](#generation-property)
     - [Optimization Property](#optimization-property)
     - [Other Analysis](#other-analysis)
-- [Other Surveys](#other-surveys)
+  - [Other Surveys](#other-surveys)
 
 
 # Basic
