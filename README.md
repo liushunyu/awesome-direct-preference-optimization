@@ -1,10 +1,10 @@
 # Awesome Direct Preference Optimization
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2503.11701-b31b1b.svg)](http://arxiv.org/abs/2503.11701)
 [![Paper](https://img.shields.io/badge/Paper-215-blue.svg)]()
 
-A list of selected papers in our survey paper titled "[A Survey of Direct Preference Optimization](https://github.com/liushunyu/awesome-direct-preference-optimization/blob/main/paper.pdf)".
+A list of selected papers in our survey paper titled "[A Survey of Direct Preference Optimization](http://arxiv.org/abs/2503.11701)".
 
 *If you find a missing paper or a possible mistake in our survey, please feel free to open an issue or pull a request here. I am more than glad to receive your advice. Thanks!*
 
@@ -20,7 +20,7 @@ If you find this survey useful for your research, please consider citing
 
 ## 🔥 News
 
-- **`[Mar 12, 2025]`** We have uploaded our survey paper titled "[A Survey of Direct Preference Optimization]()" to arXiv (coming soon). Please feel free to cite or pull a request for your awesome studies.
+- **`[Mar 12, 2025]`** We have uploaded our survey paper titled "[A Survey of Direct Preference Optimization](http://arxiv.org/abs/2503.11701)" to arXiv. Please feel free to cite or pull a request for your awesome studies.
 
 ## ✨ Overview 
 
