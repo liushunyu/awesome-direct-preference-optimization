@@ -14,6 +14,7 @@ If you find this survey useful for your research, please consider citing
 @article{liu2025dpo,
       title={A Survey of Direct Preference Optimization}, 
       author={Shunyu Liu and Wenkai Fang and Zetian Hu and Junjie Zhang and Yang Zhou and Kongcheng Zhang and Rongcheng Tu and Ting-En Lin and Fei Huang and Mingli Song and Yongbin Li and Dacheng Tao},
+      journal={arXiv preprint arXiv:2503.11701},
       year={2025}
 }
 ```
