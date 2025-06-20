@@ -75,6 +75,8 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.15065-b31b1b.svg)](https://arxiv.org/abs/2405.15065) Direct Preference Optimization With Unobserved Preference Heterogeneity
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.20304-b31b1b.svg)](https://arxiv.org/abs/2405.20304) Group Robust Preference Optimization in Reward-free RLHF
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.20299-b31b1b.svg)](https://arxiv.org/abs/2412.20299) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2412.20299) No Preference Left Behind: Group Distributional Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.01930-b31b1b.svg)](https://arxiv.org/abs/2502.01930) Robust LLM Alignment via Distributionally Robust Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.16320-b31b1b.svg)](https://arxiv.org/abs/2502.16320) Direct Alignment with Heterogeneous Preferences
 
 #### Data Distinguishability
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.10571-b31b1b.svg)](https://arxiv.org/abs/2402.10571) [![arXiv](https://img.shields.io/badge/ACL%20Findings-2024-blue.svg)](https://arxiv.org/abs/2402.10571) Direct Preference Optimization with an Offset
@@ -90,6 +92,9 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.10148-b31b1b.svg)](https://arxiv.org/abs/2410.10148) α -DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.20996-b31b1b.svg)](https://arxiv.org/abs/2412.20996) Plug-and-Play Training Framework for Preference Optimization
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=N2sN3LESoW) Gap-Aware Preference Optimization: Enhancing Model Alignment with Perception Margin
+- [![arXiv](https://img.shields.io/badge/arXiv-2506.04272-b31b1b.svg)](https://arxiv.org/abs/2506.04272) Understanding the Impact of Sampling Quality in Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2506.10054-b31b1b.svg)](https://arxiv.org/abs/2506.10054) Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs
+
 
 #### Data Noise
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.00409-b31b1b.svg)](https://arxiv.org/abs/2403.00409) [![arXiv](https://img.shields.io/badge/ICML-2024-blue.svg)](https://arxiv.org/abs/2403.00409) Provably Robust DPO: Aligning Language Models with Noisy Feedback
@@ -100,6 +105,11 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=H8gLQwg1eC) Understanding Generalization of Preference Optimization Under Noisy Feedback
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=MlxeUVCQgD) Combating inherent noise for direct preference optimization
 - [![OpenReview](https://img.shields.io/badge/NeurIPS-2024-blue)](https://openreview.net/forum?id=OUXnnPJzXJ) Perplexity-aware Correction for Robust Alignment with Noisy Preferences
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.14560-b31b1b.svg)](https://arxiv.org/abs/2502.14560) Less is More: Improving LLM Alignment via Preference Data Selection
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.24709-b31b1b.svg)](https://arxiv.org/abs/2505.24709) On Symmetric Losses for Robust Policy Optimization with Noisy Preferences
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.01706-b31b1b.svg)](https://arxiv.org/abs/2505.01706) Inducing Robustness in a 2 Dimensional Direct Preference Optimization Paradigm
+- [![arXiv](https://img.shields.io/badge/arXiv-2506.03690-b31b1b.svg)](https://arxiv.org/abs/2506.03690) Robust Preference Optimization via Dynamic Target Margins
+
 
 ### Preference Feedback
 
@@ -146,6 +156,8 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.04350-b31b1b.svg)](https://arxiv.org/abs/2410.04350) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2410.04350) TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.05102-b31b1b.svg)](https://arxiv.org/abs/2410.05102) SparsePO: Controlling Preference Alignment of LLMs via Sparse Token Masks
 - [![arXiv](https://img.shields.io/badge/arXiv-2502.14340-b31b1b.svg)](https://arxiv.org/abs/2502.14340) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2502.14340) Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
+- [![arXiv](https://img.shields.io/badge/arXiv-2506.14574-b31b1b.svg)](https://arxiv.org/abs/2506.14574) [![arXiv](https://img.shields.io/badge/ICML-2025-blue.svg)](https://arxiv.org/abs/2506.14574) TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.19653-b31b1b.svg)](https://arxiv.org/abs/2505.19653) Token-Importance Guided Direct Preference Optimization
 
 #### Step-Level Granularity
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.00451-b31b1b.svg)](https://arxiv.org/abs/2405.00451) Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning
@@ -155,6 +167,8 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.14477-b31b1b.svg)](https://arxiv.org/abs/2407.14477) Data-Centric Human Preference Optimization with Rationales
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.12854-b31b1b.svg)](https://arxiv.org/abs/2410.12854) TPO: Aligning Large Language Models with Multi-branch & Multi-step Preference Trees
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.18279-b31b1b.svg)](https://arxiv.org/abs/2412.18279) Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.14356-b31b1b.svg)](https://arxiv.org/abs/2502.14356) Full-Step-DPO: Self-Supervised Preference Optimization with Step-wise Rewards for Mathematical Reasoning
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.19100-b31b1b.svg)](https://arxiv.org/abs/2505.19100) ASPO: Adaptive Sentence-Level Preference Optimization for Fine-Grained Multimodal Reasoning
 
 #### Sentence-Level Granularity
 - [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290) [![arXiv](https://img.shields.io/badge/NeurIPS-2023-blue.svg)](https://arxiv.org/abs/2305.18290) Direct Preference Optimization: Your Language Model is Secretly a Reward Model
@@ -184,6 +198,7 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.07691-b31b1b.svg)](https://arxiv.org/abs/2403.07691) [![arXiv](https://img.shields.io/badge/EMNLP-2024-blue.svg)](https://arxiv.org/abs/2403.07691) ORPO: Monolithic Preference Optimization without Reference Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19270-b31b1b.svg)](https://arxiv.org/abs/2403.19270) sDPO: Don't Use Your Data All at Once
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.17923-b31b1b.svg)](https://arxiv.org/abs/2406.17923) Paft: A parallel training paradigm for effective LLM fine-tuning
+- [![arXiv](https://img.shields.io/badge/arXiv-2504.07856-b31b1b.svg)](https://arxiv.org/abs/2504.07856) 2D-Curri-DPO: Two-Dimensional Curriculum Learning for Direct Preference Optimization
 
 #### Online Learning
 - [![arXiv](https://img.shields.io/badge/arXiv-2309.06657-b31b1b.svg)](https://arxiv.org/abs/2309.06657) [![arXiv](https://img.shields.io/badge/ICLR-2024-blue.svg)](https://arxiv.org/abs/2309.06657) Statistical rejection sampling improves preference optimization
@@ -217,6 +232,7 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.12735-b31b1b.svg)](https://arxiv.org/abs/2410.12735) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2410.12735) CREAM: Consistency Regularized Self-Rewarding Language Models
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.23223-b31b1b.svg)](https://arxiv.org/abs/2410.23223) COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences
 - [![arXiv](https://img.shields.io/badge/arXiv-2501.12735-b31b1b.svg)](https://arxiv.org/abs/2501.12735) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2501.12735) Online Preference Alignment for Language Models via Count-based Exploration
+- [![arXiv](https://img.shields.io/badge/arXiv-2503.15880-b31b1b.svg)](https://arxiv.org/abs/2503.15880) InCo-DPO: Balancing Distribution Shift and Data Quality for Enhanced Preference Optimization
 
 
 #### Active Learning
@@ -224,6 +240,8 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.09401-b31b1b.svg)](https://arxiv.org/abs/2402.09401) Reinforcement Learning from Human Feedback with Active Queries 
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.10500-b31b1b.svg)](https://arxiv.org/abs/2402.10500) Active Preference Optimization for Sample Efficient RLHF 
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=bRfVj0Sh88) Active Preference Optimization via Maximizing Learning Capacity
+- [![arXiv](https://img.shields.io/badge/arXiv-2503.01076-b31b1b.svg)](https://arxiv.org/abs/2503.01076) Active Learning for Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.19241-b31b1b.svg)](https://arxiv.org/abs/2505.19241) ActiveDPO: Active Direct Preference Optimization for Sample-Efficient Alignment
 
 ### Learning Objective
 
@@ -234,6 +252,11 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.17956-b31b1b.svg)](https://arxiv.org/abs/2405.17956) Hybrid Preference Optimization: Augmenting Direct Preference Optimization with Auxiliary Objectives
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.08458-b31b1b.svg)](https://arxiv.org/abs/2410.08458) Simultaneous Reward Distillation and Preference Learning: Get You a Language Model Who Can Do Both
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=w0MAu8vjwj) MOSLIM: Align with diverse preferences in prompts through reward classification
+- [![OpenReview](https://img.shields.io/badge/UAI-2025-blue)](https://openreview.net/forum?id=U78lfZcqd4) COS-DPO: Conditioned One-Shot Multi-Objective Fine-Tuning Framework
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.10892-b31b1b.svg)](https://arxiv.org/abs/2505.10892) Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models
+- [![arXiv](https://img.shields.io/badge/arXiv-2506.07165-b31b1b.svg)](https://arxiv.org/abs/2506.07165) AMoPO: Adaptive Multi-objective Preference Optimization without Reward Models and Reference Models
+- [![AAAI](https://img.shields.io/badge/AAAI-2025-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/34963) Sequential Preference Optimization: Multi-Dimensional Preference Alignment with Implicit Reward Modeling
+
 
 #### Self-Play Learning
 - [![arXiv](https://img.shields.io/badge/arXiv-2312.00886-b31b1b.svg)](https://arxiv.org/abs/2312.00886) [![arXiv](https://img.shields.io/badge/ICML-2024-blue.svg)](https://arxiv.org/abs/2312.00886) Nash learning from human feedback
@@ -256,12 +279,16 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.14734-b31b1b.svg)](https://arxiv.org/abs/2405.14734) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)](https://arxiv.org/abs/2405.14734) SimPO: Simple Preference Optimization with a Reference-Free Reward
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.13709-b31b1b.svg)](https://arxiv.org/abs/2407.13709) Understanding reference policies in direct preference optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2502.00883-b31b1b.svg)](https://arxiv.org/abs/2502.00883) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2502.00883) SimPER: Simple Preference Fine-Tuning without Hyperparameters by Perplexity Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.14643-b31b1b.svg)](https://arxiv.org/abs/2502.14643) Length-Controlled Margin-Based Preference Optimization without Reference Model
+- [![arXiv](https://img.shields.io/badge/arXiv-2506.07165-b31b1b.svg)](https://arxiv.org/abs/2506.07165) AMoPO: Adaptive Multi-objective Preference Optimization without Reward Models and Reference Models
 
 #### Dynamic-Reference DPO
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.07230-b31b1b.svg)](https://arxiv.org/abs/2403.07230) [![arXiv](https://img.shields.io/badge/EMNLP-2024-blue.svg)](https://arxiv.org/abs/2403.07230) Enhancing Alignment using Curriculum Learning & Ranked Preferences
 - [![arXiv](https://img.shields.io/badge/arXiv-2403.19443-b31b1b.svg)](https://arxiv.org/abs/2403.19443) Mixed Preference Optimization: Reinforcement Learning with Data Selection and Better Reference Model
 - [![arXiv](https://img.shields.io/badge/arXiv-2404.09656-b31b1b.svg)](https://arxiv.org/abs/2404.09656) Learn Your Reference Model for Real Good Alignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.02392-b31b1b.svg)](https://arxiv.org/abs/2409.02392) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2409.02392) Building Math Agents with Multi-Turn Iterative Preference Learning
+- [![AAAI](https://img.shields.io/badge/AAAI-2025-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/34615) Multi-reference preference optimization for large language models
+- [![arXiv](https://img.shields.io/badge/arXiv-2504.15843-b31b1b.svg)](https://arxiv.org/abs/2504.15843) Pre-DPO: Improving Data Utilization in Direct Preference Optimization Using a Guiding Reference Model
 
 
 
@@ -270,6 +297,9 @@ This taxonomy provides a systematic framework for understanding the methodologic
 #### Diversity
 - [![arXiv](https://img.shields.io/badge/arXiv-2309.16240-b31b1b.svg)](https://arxiv.org/abs/2309.16240) [![arXiv](https://img.shields.io/badge/ICLR-2024-blue.svg)](https://arxiv.org/abs/2309.16240) Beyond Reverse KL- Generalizing Direct Preference Optimization with Diverse Divergence Constraints
 - [![OpenReview](https://img.shields.io/badge/ICLR-2025-blue)](https://openreview.net/forum?id=pOq9vDIYev) Diverse Preference Learning for Capabilities and Alignment
+- [![arXiv](https://img.shields.io/badge/arXiv-2501.18101-b31b1b.svg)](https://arxiv.org/abs/2501.18101) Diverse Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.19601-b31b1b.svg)](https://arxiv.org/abs/2505.19601) Preference Optimization by Estimating the Ratio of the Data Distribution
+
 
 #### Generalization
 - [![arXiv](https://img.shields.io/badge/arXiv-2402.00856-b31b1b.svg)](https://arxiv.org/abs/2402.00856) [![arXiv](https://img.shields.io/badge/ICML-2024-blue.svg)](https://arxiv.org/abs/2402.00856) Towards Efficient Exact Optimization of Language Model Alignment
@@ -288,6 +318,7 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2405.12900-b31b1b.svg)](https://arxiv.org/abs/2405.12900) Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.14586-b31b1b.svg)](https://arxiv.org/abs/2409.14586) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2409.14586) Backtracking Improves Generation Safety
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=MoJSnVZ59d) SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.20359-b31b1b.svg)](https://arxiv.org/abs/2505.20359) Risk-aware Direct Preference Optimization under Nested Risk Measure
 
 
 ## Model Property
@@ -301,6 +332,8 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.01660-b31b1b.svg)](https://arxiv.org/abs/2406.01660) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2406.01660) Self-Improving Robust Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2407.18676-b31b1b.svg)](https://arxiv.org/abs/2407.18676) Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift
 - [![arXiv](https://img.shields.io/badge/arXiv-2409.03650-b31b1b.svg)](https://arxiv.org/abs/2409.03650) [![arXiv](https://img.shields.io/badge/EMNLP%20Findings-2024-blue.svg)](https://arxiv.org/abs/2409.03650) On the limited generalization capability of the implicit reward model induced by direct preference optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.01930-b31b1b.svg)](https://arxiv.org/abs/2502.01930) Robust LLM Alignment via Distributionally Robust Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2503.15880-b31b1b.svg)](https://arxiv.org/abs/2503.15880) InCo-DPO: Balancing Distribution Shift and Data Quality for Enhanced Preference Optimization
 
 #### Length Bias
 - [![arXiv](https://img.shields.io/badge/arXiv-2304.05302-b31b1b.svg)](https://arxiv.org/abs/2304.05302) [![arXiv](https://img.shields.io/badge/NeurIPS-2023-blue.svg)](https://arxiv.org/abs/2304.05302) RRHF: Rank responses to align language models with human feedback without tears
@@ -315,6 +348,7 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.17696-b31b1b.svg)](https://arxiv.org/abs/2412.17696) Understanding the Logic of Direct Preference Alignment through Logic
 - [![arXiv](https://img.shields.io/badge/arXiv-2502.13922-b31b1b.svg)](https://arxiv.org/abs/2502.13922) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue)](https://arxiv.org/abs/2502.13922) LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2502.14340-b31b1b.svg)](https://arxiv.org/abs/2502.14340) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2502.14340) Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.14643-b31b1b.svg)](https://arxiv.org/abs/2502.14643) Length-Controlled Margin-Based Preference Optimization without Reference Model
 
 
 ### Optimization Property
@@ -329,6 +363,12 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.08847-b31b1b.svg)](https://arxiv.org/abs/2410.08847) Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.11677-b31b1b.svg)](https://arxiv.org/abs/2410.11677) Understanding Likelihood Over-optimisation in Direct Alignment Algorithms
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.13828-b31b1b.svg)](https://arxiv.org/abs/2410.13828) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2410.13828) A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement
+- [![arXiv](https://img.shields.io/badge/arXiv-2502.07599-b31b1b.svg)](https://arxiv.org/abs/2502.07599) DPO-Shift: Shifting the Distribution of Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2506.03557-b31b1b.svg)](https://arxiv.org/abs/2506.03557) BPO: Revisiting Preference Modeling in Direct Preference Optimization
+- [![arXiv](https://img.shields.io/badge/arXiv-2506.12725-b31b1b.svg)](https://arxiv.org/abs/2506.12725) Rethinking DPO: The Role of Rejected Responses in Preference Misalignment
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.23316-b31b1b.svg)](https://arxiv.org/abs/2505.23316) Proximalized Preference Optimization for Diverse Feedback Types: A Decomposed Perspective on DPO
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.12435-b31b1b.svg)](https://arxiv.org/abs/2505.12435) SGDPO: Self-Guided Direct Preference Optimization for Language Model Alignment
+
 
 
 #### Alignment Tax
@@ -346,6 +386,7 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2406.09279-b31b1b.svg)](https://arxiv.org/abs/2406.09279) [![arXiv](https://img.shields.io/badge/NeurIPS-2024-blue.svg)](https://arxiv.org/abs/2406.09279) Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.04203-b31b1b.svg)](https://arxiv.org/abs/2410.04203) [![arXiv](https://img.shields.io/badge/ICLR-2025-blue.svg)](https://arxiv.org/abs/2410.04203) RainbowPO: A Unified Framework for Combining Improvements in Preference Optimization
 - [![OpenReview](https://img.shields.io/badge/ICLR%20Tiny%20Papers-2024-blue)](https://openreview.net/forum?id=lNEFatlsQb) When is RL better than DPO in RLHF? A Representation and Optimization Perspective
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.19770-b31b1b.svg)](https://arxiv.org/abs/2505.19770) Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO
 
 
 
