@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
 [![arXiv](https://img.shields.io/badge/arXiv-2503.11701-b31b1b.svg)](http://arxiv.org/abs/2503.11701)
-[![Paper](https://img.shields.io/badge/Paper-215-blue.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-252-blue.svg)]()
 
 A list of selected papers in our survey paper titled "[A Survey of Direct Preference Optimization](http://arxiv.org/abs/2503.11701)".
 
