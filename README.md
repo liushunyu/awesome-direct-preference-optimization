@@ -368,6 +368,7 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2506.12725-b31b1b.svg)](https://arxiv.org/abs/2506.12725) Rethinking DPO: The Role of Rejected Responses in Preference Misalignment
 - [![arXiv](https://img.shields.io/badge/arXiv-2505.23316-b31b1b.svg)](https://arxiv.org/abs/2505.23316) Proximalized Preference Optimization for Diverse Feedback Types: A Decomposed Perspective on DPO
 - [![arXiv](https://img.shields.io/badge/arXiv-2505.12435-b31b1b.svg)](https://arxiv.org/abs/2505.12435) SGDPO: Self-Guided Direct Preference Optimization for Language Model Alignment
+- [![arXiv](https://img.shields.io/badge/arXiv-2505.23761-b31b1b.svg)](https://arxiv.org/abs/2505.23761) Differential Information: An Information-Theoretic Perspective on Preference Optimization
 
 
 
