@@ -92,8 +92,10 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2410.10148-b31b1b.svg)](https://arxiv.org/abs/2410.10148) α -DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs
 - [![arXiv](https://img.shields.io/badge/arXiv-2412.20996-b31b1b.svg)](https://arxiv.org/abs/2412.20996) Plug-and-Play Training Framework for Preference Optimization
 - [![OpenReview](https://img.shields.io/badge/OpenReview-2024-blue)](https://openreview.net/forum?id=N2sN3LESoW) Gap-Aware Preference Optimization: Enhancing Model Alignment with Perception Margin
+- [![arXiv](https://img.shields.io/badge/arXiv-2501.06645-b31b1b.svg)](https://arxiv.org/abs/2501.06645) [![arXiv](https://img.shields.io/badge/ACL-2025-blue.svg)](https://arxiv.org/abs/2501.06645) FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings
 - [![arXiv](https://img.shields.io/badge/arXiv-2506.04272-b31b1b.svg)](https://arxiv.org/abs/2506.04272) Understanding the Impact of Sampling Quality in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2506.10054-b31b1b.svg)](https://arxiv.org/abs/2506.10054) Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs
+
 
 
 #### Data Noise
