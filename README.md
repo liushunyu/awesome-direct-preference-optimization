@@ -28,6 +28,12 @@ If you find this survey useful for your research, please consider citing
 In this survey, we introduce a novel taxonomy that categorizes existing DPO works into four key dimensions based on different components of the DPO loss: **data strategy**, **learning framework**, **constraint mechanism**, and **model property**. 
 
 <div align="center">
+<img src="https://github.com/liushunyu/awesome-direct-preference-optimization/blob/main/dpo-loss.png" width="45%">
+</div>
+
+The detailed taxonomy is presented as follows:
+
+<div align="center">
 <img src="https://github.com/liushunyu/awesome-direct-preference-optimization/blob/main/framework.png" width="100%">
 </div>
 
