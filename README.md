@@ -101,6 +101,7 @@ This taxonomy provides a systematic framework for understanding the methodologic
 - [![arXiv](https://img.shields.io/badge/arXiv-2501.06645-b31b1b.svg)](https://arxiv.org/abs/2501.06645) [![arXiv](https://img.shields.io/badge/ACL-2025-blue.svg)](https://arxiv.org/abs/2501.06645) FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings
 - [![arXiv](https://img.shields.io/badge/arXiv-2506.04272-b31b1b.svg)](https://arxiv.org/abs/2506.04272) Understanding the Impact of Sampling Quality in Direct Preference Optimization
 - [![arXiv](https://img.shields.io/badge/arXiv-2506.10054-b31b1b.svg)](https://arxiv.org/abs/2506.10054) Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs
+- [![arXiv](https://img.shields.io/badge/arXiv-2508.13993-b31b1b.svg)](https://arxiv.org/abs/2508.13993) [![arXiv](https://img.shields.io/badge/ACL-2026-blue.svg)](https://arxiv.org/abs/2508.13993) Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization
 
 
 
